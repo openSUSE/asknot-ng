@@ -1,0 +1,69 @@
+https://github.com/openSUSE/asknot-ng.git
+
+title: What can I do for openSUSE?
+description: What can I do for openSUSE?
+favicon: https://www.opensuse.org/build/images/favicon.png
+google-site-verification:   ### not sure we have one
+negatives:
+    - "No"
+    - Nope, nope, nope
+    - Nope
+    - No, thanks
+    - Not on your life
+    - Doesn't sound like me
+    - Absolutely not
+    - Next, please
+affirmatives:
+    - "Yes"
+    - Sounds awesome
+    - Tell me more
+    - That's me!
+    - Totally
+    - Sure
+backlinks:
+    - I was wrong, take me back
+    - I think I made a mistake
+    - Get me outta here!
+
+navlinks:
+    - name: Home
+      link: "javascript:reloadHome();"
+    - name: openSUSE Home
+      link: https://www.opensuse.org/
+
+tree:
+  segue1: Want to make openSUSE even better?  Do tell us...
+  segue2: What's your main area of interest?
+  children:
+  - title: Infrastructure
+    subtitle: the DevOps you didn't know you were.
+    image: "" ### ADD ME
+    segue1: Greasy cogs and steamy, rusty machines.
+    segue2: Transmitting energy where it's needed with code and settings.
+    children: ### ADD ME OR REPLACE WITH LINK ATTRIBUTE
+
+  - title: Packaging
+    subtitle: placing fresh programs in cosy silky wraps.
+    image: "" ### ADD ME
+    segue1: you can build the OS or work on additional packages
+    segue2: At any rate you'll love Open Build Service, check it out
+    children: includes/opensuse/packaging.yml ### ADD ME OR REPLACE WITH LINK ATTRIBUTE
+
+  - title: Design
+    subtitle: web design, logos and merchandising
+    image: "" ### ADD ME
+    segue1: So you enjoy working on visuals, graphical interface and user experience in general?
+    segue2: How about ...?
+    children: includes/opensuse/design.yml  ### ADD ME OR REPLACE WITH LINK ATTRIBUTE
+
+  - title: Documentation
+    image: "" ### ADD ME
+    subtitle: A community thrives only insofar as it is able to share knowledge.
+    link: https://github.com/openSUSE/openSUSE-docs-revamped
+
+  - title: Translation
+    subtitle: From Latin `translatere` (to transport)
+    image: "" ### ADD ME
+    segue1: Too often do we forget that English is just one in many languages.
+    segue2: What do you want to translate for?
+    children: includes/opensuse/translation.yml ### ADD ME OR REPLACE WITH LINK ATTRIBUTE
