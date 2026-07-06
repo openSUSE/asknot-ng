@@ -86,3 +86,10 @@ tree:
     segue1: Passionate about edge computing or embedded systems?
     segue2: Join us in creating cutting-edge solutions.
     children: includes/openSUSE/edge_embedded.yml
+    
+  - title: Events
+    subtitle: Did you want to run an event?
+    image: "" ### ADD ME
+    segue1: Where the community comes together in person.
+    segue2: Coordinating people and plans with code and settings.
+    children: includes/openSUSE/events.yml

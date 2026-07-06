@@ -1,6 +1,6 @@
 tree:
   children:
     - title: Heroes
-      subtitle: the backbone of the openSUSE websites
+      subtitle: Join the Heroes meeting on the first Thursday of every month
       image: #
-      link: https://en.opensuse.org/openSUSE:Heroes
+      link: https://calendar.opensuse.org/
