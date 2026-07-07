@@ -72,3 +72,24 @@ tree:
     segue1: Too often do we forget that English is just one in many languages.
     segue2: What do you want to translate for?
     children: includes/openSUSE/translation.yml
+    
+  - title: Cloud
+    subtitle: Deploy and manage cloud services.
+    image: "" ### ADD ME
+    segue1: Interested in cloud technologies and services?
+    segue2: Help us build and optimize cloud solutions.
+    children: includes/openSUSE/cloud.yml
+
+  - title: Edge/Embedded
+    subtitle: Innovate on the edge and in embedded systems.
+    image: "" ### ADD ME
+    segue1: Passionate about edge computing or embedded systems?
+    segue2: Join us in creating cutting-edge solutions.
+    children: includes/openSUSE/edge_embedded.yml
+    
+  - title: Events
+    subtitle: Did you want to run an event?
+    image: "" ### ADD ME
+    segue1: Where the community comes together in person.
+    segue2: Coordinating people and plans with code and settings.
+    children: includes/openSUSE/events.yml
