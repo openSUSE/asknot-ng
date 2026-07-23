@@ -4,6 +4,6 @@
 
 python3 asknot-ng.py \
 	./templates/index.html \
-	./questions/fedora.yml \
+	./questions/openSUSE.yml \
 	./l10n/fedora/locale \
-	--theme fedora
+	--theme openSUSE
